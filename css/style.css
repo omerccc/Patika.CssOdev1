@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+a{
+    color: blueviolet;
+}
+
+.yaziyi_ortala{
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+    font-family: 'Kanit', sans-serif;
+}
+
+ul {
+    margin:0;
+    padding:0;
+    text-align: center;
+    list-style-type: circle;         
+}
+li{
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 18px;
+}
